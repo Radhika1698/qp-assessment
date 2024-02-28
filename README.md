@@ -7,7 +7,7 @@ This Node.js application provides a RESTful API for managing grocery items and o
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your/repository.git
+    git clone https://github.com/Radhika1698/qp-assessment.git
     ```
 
 2. Navigate to the project directory:
