@@ -10,24 +10,18 @@ This Node.js application provides a RESTful API for managing grocery items and o
     git clone https://github.com/Radhika1698/qp-assessment.git
     ```
 
-2. Navigate to the project directory:
-
-    ```bash
-    cd grocery-management-system
-    ```
-
-3. Install dependencies:
+2. Install dependencies:
 
     ```bash
     npm install
     ```
 
-4. Set up the database:
+3. Set up the database:
    
    - Ensure you have a MySQL database running.
    - Update the database configuration in `common/db.js` if necessary.
 
-5. Start the server:
+4. Start the server:
 
     ```bash
     npx ts-node endpoints.ts
